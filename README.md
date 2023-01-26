@@ -1,8 +1,8 @@
 # MeinErstesRepo
 
-##Ziel
+## Ziel
 Das Ziel der kleinen App ist.....
 
-##Autoren
+## Autoren
 * Ich und
 * die GW22A
